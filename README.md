@@ -10,7 +10,7 @@
 
 ## 분류
 ### JAVA
-
+- [[2021.10.24] 백준 2004번(조합 0의 개수)](https://github.com/yoo86/TIL/blob/main/Java/baekjoon_2004.md)
 
 ### Python
 
