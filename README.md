@@ -13,6 +13,10 @@
 
 
 ### Python
+***
+#### 개념정리
+***
+#### 문제풀이
 - [백준 2004번(조합 0의 개수)](https://github.com/yoo86/TIL/blob/main/Python/baekjoon_2004.md)
 
 ### GitHub
