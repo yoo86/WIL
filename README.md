@@ -11,13 +11,21 @@
 ## 분류
 ### JAVA
 
-
-### Python
+#### 개념정리
 ***
+#### 문제풀이
+
+***
+### Python
+
 #### 개념정리
 ***
 #### 문제풀이
 - [백준 2004번(조합 0의 개수)](https://github.com/yoo86/TIL/blob/main/Python/baekjoon_2004.md)
+***
+
+### 컴퓨터시스템
+- [CPU 스케줄링]
 
 ### GitHub
 - [TIL 작성법](https://github.com/yoo86/TIL/blob/1be10e65e9a751a117fef76d808f87b435a10e58/GitHub.md)
