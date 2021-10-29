@@ -6,7 +6,9 @@
 <pre>
 <code>
 def play_stones(pile, max_stones):
+
   print(f'There are {pile} stones, and you can choose (1 ~ {max_stones}) stones')
+  
   while pile > 0:
     user_num1 = int(input(f'(P1) : How many stones? (1 ~ {max_stones}) '))
     if user_num1 >= 1 and user_num1 <= max_stones:
