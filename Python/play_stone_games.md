@@ -5,6 +5,7 @@
 ***
 <pre>
 <code>
+# 첫번째 버전
 def play_stones(pile, max_stones):
 
   print(f'There are {pile} stones, and you can choose (1 ~ {max_stones}) stones')
@@ -29,6 +30,41 @@ def play_stones(pile, max_stones):
       
   print('Game over')
   
+</code>
+</pre>
+
+<pre>
+<code>
+# 최종
+def play_stones(pile, max_stones):
+  print(f'There are {pile} stones, and you can choose (1 ~ {max_stones}) stones')
+  
+  while pile > 0:
+    user_num1 = int(input(f'(P1) : How many stones? (1 ~ {max_stones}) '))
+    
+    if user_num1 >= 1 and user_num1 <= max_stones:
+      pile = pile - user_num1
+      
+      if pile > 0:
+        print(f'There are {pile} stones left')
+      else:
+        print('Player 1 wins!')
+      
+      while pile > 0:
+        user_num2 = int(input(f'(P2) : How many stones? (1 ~ {max_stones}) '))
+        if user_num2 >= 1 and user_num2 <= max_stones:
+          pile = pile - user_num2
+          if pile > 0:
+            print(f'There are {pile} stones left')
+            break
+          else:
+            print('Player 2 wins!')
+            
+        else:
+          print('Invalid choice! Try again')
+          
+  print('Game over')
+
 </code>
 </pre>
 
