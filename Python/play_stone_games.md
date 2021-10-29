@@ -29,7 +29,6 @@ def play_stones(pile, max_stones):
       print("Invalid choice! Try again")
       
   print('Game over')
-  
 </code>
 </pre>
 
@@ -64,7 +63,6 @@ def play_stones(pile, max_stones):
           print('Invalid choice! Try again')
           
   print('Game over')
-
 </code>
 </pre>
 
