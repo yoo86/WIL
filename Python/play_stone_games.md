@@ -12,13 +12,16 @@ def play_stones(pile, max_stones):
     if user_num1 >= 1 and user_num1 <= max_stones:
       pile = pile - user_num1
       print(f'There are {pile} stones left')
-
-      user_num2 = int(input(f'(P2) : How many stones? (1 ~ {max_stones}) '))
-      if user_num2 >= 1 and user_num2 <= max_stones:
-        pile = pile - user_num2
-        print(f'There are {pile} stones left')
-      elif user_num2 <= 1 and user_num2 >= max_stones:
-        print('Invalid choice! Try again')
+      
+      while pile > 0:
+        user_num2 = int(input(f'(P2) : How many stones? (1 ~ {max_stones}) '))
+        if user_num2 >= 1 and user_num2 <= max_stones:
+          pile = pile - user_num2
+          print(f'There are {pile} stones left')
+          
+        else:
+          print('Invalid choice! Try again')
+          
     else:
       print("Invalid choice! Try again")
       
@@ -32,4 +35,6 @@ input값을 받으면 그 값만큼 pile에서 빼고 pile이 0보다 작아질�
 ### 2. 문제점
 ***
 - P1은 범위 외의 값을 입력했을 때 다시 입력하라는 문장이 출력되고 다시 입력할 수 있지만 P2는 문장만 출력된 후 P1으로 입력이 넘어간다.
+  - 해결 : while문을 하나 더 만들어 P2는 틀리면 다시 입력하라는 문장이 출력되고 다시 입력하고 입력이 완료되면 while문이 break되도록 코드 작성
+  
 - 위의 문제가 해결되지 않아 아직 누가 우승했는지 출력하는 문장을 코드에 넣지 못했다.
