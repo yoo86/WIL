@@ -29,7 +29,7 @@ for k in a:
     break
 
 print(result.count(0))
-</code>Cancel changes
+</code>
 </pre>
 
 for문을 활용해 mul 함수를 정의하여 팩토리얼(!)을 계산하였다.   
