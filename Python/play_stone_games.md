@@ -6,6 +6,7 @@
 <pre>
 <code>
 # 첫번째 버전
+
 def play_stones(pile, max_stones):
 
   print(f'There are {pile} stones, and you can choose (1 ~ {max_stones}) stones')
@@ -35,6 +36,7 @@ def play_stones(pile, max_stones):
 <pre>
 <code>
 # 최종
+
 def play_stones(pile, max_stones):
   print(f'There are {pile} stones, and you can choose (1 ~ {max_stones}) stones')
   
