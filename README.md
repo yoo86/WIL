@@ -21,7 +21,8 @@
 - [리스트 합쳐서 출력(join 내장함수)](https://github.com/yoo86/TIL/blob/main/Python/join%EB%82%B4%EC%9E%A5%ED%95%A8%EC%88%98.md)
 #### 2. Solution
 - [백준 2004번(조합 0의 개수)](https://github.com/yoo86/TIL/blob/main/Python/baekjoon_2004.md)
-- [Stonegame](https://github.com/yoo86/TIL/blob/main/Python/play_stone_games.md)
+- [Play stone games](https://github.com/yoo86/TIL/blob/main/Python/play_stone_games.md)
+- [Convert words](https://github.com/yoo86/TIL/blob/main/Python/Convert_words.md)
 ***
 
 ### Computer System
