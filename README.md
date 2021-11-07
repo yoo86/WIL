@@ -24,6 +24,7 @@
 - [백준 2004번(조합 0의 개수)](https://github.com/yoo86/TIL/blob/main/Python/baekjoon_2004.md)
 - [Play stone games](https://github.com/yoo86/TIL/blob/main/Python/play_stone_games.md)
 - [Convert words](https://github.com/yoo86/TIL/blob/main/Python/Convert_words.md)
+- [백준 1269번(대칭 차집합)](https://github.com/yoo86/TIL/blob/main/Python/baekjoon_1269.md)
 ***
 
 ### Computer System
