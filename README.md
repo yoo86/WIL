@@ -33,7 +33,7 @@
 ***
 
 ### Reading
-- [포스트휴먼이 몰려온다](https://github.com/yoo86/TIL/new/main)
+- [포스트휴먼이 몰려온다](https://github.com/yoo86/TIL/blob/main/Reading/posthuman.md)
 ***
 
 ### GitHub
