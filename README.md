@@ -32,5 +32,8 @@
 - [CPU 스케줄링](https://github.com/yoo86/TIL/blob/main/Computer_System/CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
 ***
 
+### Reading
+***
+
 ### GitHub
 - [TIL 작성법](https://github.com/yoo86/TIL/blob/1be10e65e9a751a117fef76d808f87b435a10e58/GitHub.md)
