@@ -18,18 +18,18 @@
 ### Python
 
 #### 1. Concept
-- [리스트 합쳐서 출력(join 내장함수)](https://github.com/yoo86/TIL/blob/main/Python/join%EB%82%B4%EC%9E%A5%ED%95%A8%EC%88%98.md)
-- [집합 자료형(set 내장함수)](https://github.com/yoo86/TIL/blob/main/Python/set_%EC%9E%90%EB%A3%8C%ED%98%95.md)
+- [리스트 합쳐서 출력 (join 내장함수)](https://github.com/yoo86/TIL/blob/main/Python/join%EB%82%B4%EC%9E%A5%ED%95%A8%EC%88%98.md)
+- [집합 자료형 (set 내장함수)](https://github.com/yoo86/TIL/blob/main/Python/set_%EC%9E%90%EB%A3%8C%ED%98%95.md)
 #### 2. Solution
-- [백준 2004번(조합 0의 개수)](https://github.com/yoo86/TIL/blob/main/Python/baekjoon_2004.md)
+- [백준 2004번 (조합 0의 개수)](https://github.com/yoo86/TIL/blob/main/Python/baekjoon_2004.md)
 - [Play stone games](https://github.com/yoo86/TIL/blob/main/Python/play_stone_games.md)
 - [Convert words](https://github.com/yoo86/TIL/blob/main/Python/Convert_words.md)
-- [백준 1269번(대칭 차집합)](https://github.com/yoo86/TIL/blob/main/Python/baekjoon_1269.md)
-- [Vehicle and Car(클래스, 상속)](https://github.com/yoo86/TIL/blob/main/Python/Vehicle_and_Car.md)
+- [백준 1269번 (대칭 차집합)](https://github.com/yoo86/TIL/blob/main/Python/baekjoon_1269.md)
+- [Vehicle and Car (클래스, 상속)](https://github.com/yoo86/TIL/blob/main/Python/Vehicle_and_Car.md)
 ***
 
 ### Computer System
-- [병렬가감산기(+2진수 변환법)](https://github.com/yoo86/TIL/blob/main/Computer_System/%EB%B3%91%EB%A0%AC%EA%B0%80%EA%B0%90%EC%82%B0%EA%B8%B0(2%EC%A7%84%EC%88%98_%EB%B3%80%ED%99%98%EB%B2%95_%ED%8F%AC%ED%95%A8).md)
+- [병렬가감산기 (+2진수 변환법)](https://github.com/yoo86/TIL/blob/main/Computer_System/%EB%B3%91%EB%A0%AC%EA%B0%80%EA%B0%90%EC%82%B0%EA%B8%B0(2%EC%A7%84%EC%88%98_%EB%B3%80%ED%99%98%EB%B2%95_%ED%8F%AC%ED%95%A8).md)
 - [CPU 스케줄링](https://github.com/yoo86/TIL/blob/main/Computer_System/CPU%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81.md)
 ***
 
