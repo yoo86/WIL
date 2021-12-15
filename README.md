@@ -30,6 +30,7 @@
 - [Vehicle and Car (클래스, 상속)](https://github.com/yoo86/TIL/blob/main/Python/Vehicle_and_Car.md)
 #### 3. Study
 - [211012 스터디](https://github.com/yoo86/TIL/blob/main/Python_study/211012_study.md)
+- [211102 스터디](https://github.com/yoo86/TIL/blob/main/Python_study/211102_study.md)
 - [211109 스터디](https://github.com/yoo86/TIL/blob/main/Python_study/211109_study.md)
 ***
 
