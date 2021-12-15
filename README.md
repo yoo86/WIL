@@ -29,7 +29,7 @@
 - [백준 1269번 (대칭 차집합)](https://github.com/yoo86/TIL/blob/main/Python/baekjoon_1269.md)
 - [Vehicle and Car (클래스, 상속)](https://github.com/yoo86/TIL/blob/main/Python/Vehicle_and_Car.md)
 #### 3. Study
-- [211012](https://github.com/yoo86/TIL/blob/main/Python_study/211012_study.md)
+- [211012 ](https://github.com/yoo86/TIL/blob/main/Python_study/211012_study.md)
 ***
 
 ### Computer System
