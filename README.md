@@ -25,6 +25,7 @@
 - [메세지 패싱](https://github.com/yoo86/TIL/blob/main/Java_Practice/message_passing.md)
 - [메뉴 만들기2](https://github.com/yoo86/TIL/blob/main/Java_Practice/made_menu2.md)
 - [패키지 사용](https://github.com/yoo86/TIL/blob/main/Java_Practice/use_package.md)
+- [제네릭 프로그래밍](https://github.com/yoo86/TIL/blob/main/Java_Practice/generic_programming.md)
 ***
 
 ### Python
