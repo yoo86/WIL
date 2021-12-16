@@ -14,6 +14,8 @@
 - [클래스와 객체 (4.2 자바 클래스 만들기)](https://github.com/yoo86/TIL/blob/main/Java/%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%EA%B0%9D%EC%B2%B4_%EC%9E%90%EB%B0%94%ED%81%B4%EB%9E%98%EC%8A%A4%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 #### 2. Solution
 - [NFT거래소 캡슐화 코드](https://github.com/yoo86/TIL/blob/main/Java/NFTmarket.md)
+#### 3. Practice
+- [입출력](https://github.com/yoo86/TIL/blob/main/Java_Practice/input-output.md)
 ***
 
 ### Python
