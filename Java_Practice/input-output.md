@@ -1,4 +1,6 @@
-![image](https://user-images.githubusercontent.com/93065107/146367940-a2e27bb9-c2d6-4d87-ab79-34d8910297a5.png)  
+Q. 다음처럼 입력시 출력되도록 하시오.  
+입력 : 3 5 7  
+출력 : 7 5 3
 
 #### My code
 ```
