@@ -17,6 +17,7 @@
 #### 3. Practice
 - [입출력](https://github.com/yoo86/TIL/blob/main/Java_Practice/input-output.md)
 - [자릿수 합계](https://github.com/yoo86/TIL/blob/main/Java_Practice/sum_of_digits.md)
+- [내림차순 정렬](https://github.com/yoo86/TIL/blob/main/Java_Practice/sort(descending).md)
 ***
 
 ### Python
