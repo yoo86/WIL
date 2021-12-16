@@ -47,13 +47,13 @@ public class Answer_1 {
 		int c = (input%100)%10;
 		int sum = a + b + c;
 		
-    /*
-    자릿수를 이 방법으로도 나눌 수 있음
-    int a = input/100;
+    		/*
+   		자릿수를 이 방법으로도 나눌 수 있음
+    		int a = input/100;
 		int b = (input - a*100)/10;
 		int c = (input - a*100 - b*10);
 		int sum = a + b + c;
-    */
+    		*/
     
 		System.out.println("자릿수의 합계는: " + sum);
 	}
