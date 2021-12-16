@@ -20,6 +20,7 @@
 - [내림차순 정렬](https://github.com/yoo86/TIL/blob/main/Java_Practice/sort(descending).md)
 - [아스키코드표 출력](https://github.com/yoo86/TIL/blob/main/Java_Practice/print_asciicode.md)
 - [메뉴 만들기1](https://github.com/yoo86/TIL/blob/main/Java_Practice/made_menu1.md)
+- [클래스 만들기(초급)](https://github.com/yoo86/TIL/blob/main/Java_Practice/made_class.md)
 ***
 
 ### Python
