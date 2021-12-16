@@ -22,6 +22,7 @@
 - [메뉴 만들기1](https://github.com/yoo86/TIL/blob/main/Java_Practice/made_menu1.md)
 - [클래스 만들기(초급)](https://github.com/yoo86/TIL/blob/main/Java_Practice/made_class.md)
 - [메소드 생성](https://github.com/yoo86/TIL/blob/main/Java_Practice/create_method.md)
+- [메세지 패싱](https://github.com/yoo86/TIL/blob/main/Java_Practice/message_passing.md)
 ***
 
 ### Python
