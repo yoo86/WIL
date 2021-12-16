@@ -24,6 +24,7 @@
 - [메소드 생성](https://github.com/yoo86/TIL/blob/main/Java_Practice/create_method.md)
 - [메세지 패싱](https://github.com/yoo86/TIL/blob/main/Java_Practice/message_passing.md)
 - [메뉴 만들기2](https://github.com/yoo86/TIL/blob/main/Java_Practice/made_menu2.md)
+- [패키지 사용](https://github.com/yoo86/TIL/blob/main/Java_Practice/use_package.md)
 ***
 
 ### Python
