@@ -2,7 +2,7 @@ Q. 다음처럼 입력시 출력되도록 하시오.
 입력 : 3 5 7  
 출력 : 7 5 3
 
-#### My code
+#### My code 1
 ```
 import java.util.Scanner;
 
@@ -31,7 +31,7 @@ public class Main {
 }
 ```
 
-#### Professor
+#### My code 2
 ```
 import java.util.Scanner;
 
