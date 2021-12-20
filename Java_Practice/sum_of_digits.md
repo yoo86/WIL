@@ -3,7 +3,7 @@ ex)
 입력 -> 1 2 3  
 출력 -> 자릿수 합계 : 6
     
-#### My code
+#### My code 1
 ```
 import java.util.Scanner;
 
@@ -27,7 +27,7 @@ public class Main {
 }
 ```
 
-#### Professor
+#### My code 2
 
 ```
 import java.util.Scanner;
