@@ -54,7 +54,7 @@
 ***
 
 ### Reading
-- [포스트휴먼이 몰려온다](https://github.com/yoo86/TIL/blob/main/Reading/posthuman.md)
+- [마지막 몰입 : 나를 넘어서는 ](https://github.com/yoo86/TIL/blob/main/Reading/unlocklife.md)
 ***
 
 ### GitHub
