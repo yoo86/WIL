@@ -49,6 +49,7 @@
 - [211214 스터디](https://github.com/yoo86/TIL/blob/main/Python_study/211214_study.md)
 - [211228 스터디](https://github.com/yoo86/WIL/blob/main/Python_study/211228_study.md)
 - [220102 스터디](https://github.com/yoo86/WIL/blob/main/Python_study/220102_study.md)
+- [220111 스터디](https://github.com/yoo86/WIL/blob/main/Python_study/220111_study.md)
 ***
 
 ### Computer System
