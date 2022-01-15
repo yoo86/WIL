@@ -50,6 +50,7 @@
 - [211228 스터디](https://github.com/yoo86/WIL/blob/main/Python_study/211228_study.md)
 - [220102 스터디](https://github.com/yoo86/WIL/blob/main/Python_study/220102_study.md)
 - [220111 스터디](https://github.com/yoo86/WIL/blob/main/Python_study/220111_study.md)
+- [220118 스터디(numpy 기초)](https://github.com/yoo86/WIL/blob/main/Python_study/numpy_basic.ipynb)
 ***
 
 ### Computer System
